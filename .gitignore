@@ -10,6 +10,7 @@ lerna-debug.log*
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Compiled TS
+dist/
 build/
 
 # Dependency directories
@@ -36,3 +37,6 @@ typings/
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
+
+
+.DS_Store
