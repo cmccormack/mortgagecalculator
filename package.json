@@ -1,0 +1,24 @@
+{
+  "name": "mortgagecalculator",
+  "version": "1.0.0",
+  "description": "Simple tool to calculate mortgage information",
+  "main": "build/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmccormack/mortgagecalculator.git"
+  },
+  "keywords": [
+    "Mortgage",
+    "Calculator",
+    "Calc"
+  ],
+  "author": "Christopher McCormack <chris@mack.dev> (https://mack.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmccormack/mortgagecalculator/issues"
+  },
+  "homepage": "https://github.com/cmccormack/mortgagecalculator#readme"
+}
